@@ -1,0 +1,6 @@
+deb http://mirrors.mit.edu/ubuntu/ bionic main restricted
+deb http://mirrors.mit.edu/ubuntu/ bionic-updates main restricted
+deb http://mirrors.mit.edu/ubuntu/ bionic universe
+deb http://mirrors.mit.edu/ubuntu/ bionic-updates universe
+deb http://mirrors.mit.edu/ubuntu/ bionic multiverse
+deb http://mirrors.mit.edu/ubuntu/ bionic-updates multiverse

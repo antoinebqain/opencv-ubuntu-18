@@ -1,6 +1,7 @@
 FROM ubuntu:18.04
 ENV DEBIAN_FRONTEND=noninteractive
 
+ADD sources.list /etc/apt/
 RUN apt update
 RUN apt install -y software-properties-common
 RUN echo | add-apt-repository ppa:deadsnakes/ppa
